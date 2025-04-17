@@ -18,7 +18,7 @@ const app = express();
 app.use(
   cors({
     credentials: true,
-    origin: process.env.NETLIFY_URL || "http://localhost:5173",
+    origin: process.env.NETLIFY_URL || "http://localhost:5173" || "https://a6--kambaz-react-web-app-sd1-cs5610-sp25.netlify.app",
   })
 );
 const sessionOptions = {
