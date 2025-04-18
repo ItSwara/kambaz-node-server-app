@@ -1,0 +1,88 @@
+[
+    {
+      "_id": "QQ0001",
+      "quizId": "Q0001",
+      "title": "What does HTML stand for?",
+      "questionType": "MULTIPLE_CHOICE",
+      "points": 3,
+      "options": [
+        { "id": "A", "text": "Hyper Text Markup Language", "isCorrect": true },
+        { "id": "B", "text": "High Tech Multi Language", "isCorrect": false },
+        { "id": "C", "text": "Hyper Transfer Markup Language", "isCorrect": false },
+        { "id": "D", "text": "Hyperlink and Text Markup Language", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "QQ0002",
+      "quizId": "Q0001",
+      "title": "Which HTML element is used to define the title of a document?",
+      "questionType": "MULTIPLE_CHOICE",
+      "points": 2,
+      "options": [
+        { "id": "A", "text": "<header>", "isCorrect": false },
+        { "id": "B", "text": "<head>", "isCorrect": false },
+        { "id": "C", "text": "<title>", "isCorrect": true },
+        { "id": "D", "text": "<h1>", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "QQ0003",
+      "quizId": "Q0001",
+      "title": "HTML is a programming language.",
+      "questionType": "TRUE_FALSE",
+      "points": 2,
+      "correctAnswer": "FALSE"
+    },
+    {
+      "_id": "QQ0004",
+      "quizId": "Q0002",
+      "title": "What does CSS stand for?",
+      "questionType": "MULTIPLE_CHOICE",
+      "points": 3,
+      "options": [
+        { "id": "A", "text": "Computer Style Sheets", "isCorrect": false },
+        { "id": "B", "text": "Creative Style System", "isCorrect": false },
+        { "id": "C", "text": "Cascading Style Sheets", "isCorrect": true },
+        { "id": "D", "text": "Colorful Style Sheets", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "QQ0005",
+      "quizId": "Q0002",
+      "title": "Which property is used to change the background color?",
+      "questionType": "MULTIPLE_CHOICE",
+      "points": 2,
+      "options": [
+        { "id": "A", "text": "bgcolor", "isCorrect": false },
+        { "id": "B", "text": "background-color", "isCorrect": true },
+        { "id": "C", "text": "color", "isCorrect": false },
+        { "id": "D", "text": "background", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "QQ0006",
+      "quizId": "Q0003",
+      "title": "Which of the following are ES6 features? (Select all that apply)",
+      "questionType": "MULTIPLE_ANSWER",
+      "points": 4,
+      "options": [
+        { "id": "A", "text": "let and const declarations", "isCorrect": true },
+        { "id": "B", "text": "Arrow functions", "isCorrect": true },
+        { "id": "C", "text": "Class syntax", "isCorrect": true },
+        { "id": "D", "text": "document.getElementById()", "isCorrect": false }
+      ]
+    },
+    {
+      "_id": "QQ0007",
+      "quizId": "Q0003",
+      "title": "What will be the output of: console.log(typeof []);",
+      "questionType": "MULTIPLE_CHOICE",
+      "points": 3,
+      "options": [
+        { "id": "A", "text": "array", "isCorrect": false },
+        { "id": "B", "text": "object", "isCorrect": true },
+        { "id": "C", "text": "undefined", "isCorrect": false },
+        { "id": "D", "text": "null", "isCorrect": false }
+      ]
+    }
+  ]
